@@ -1,2 +1,2 @@
 # 4-QAM
-4 qam transceiver
+4 qam transceiver Simulink model
